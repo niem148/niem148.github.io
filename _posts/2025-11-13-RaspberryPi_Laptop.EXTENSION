@@ -7,13 +7,11 @@ media_subpath: /assets/media/pi5-laptop/
 image: preview.jpg
 ---
 
-## 🧰 Overview
-
+## Overview
 
 This post documents my custom Pi5 laptop build, including enclosure design, cooling setup, and GPIO access. It’s part of my portfolio showcasing hardware modeling and prototyping routines.
 
-## 🔧 Enclosure Design
-
+## Enclosure Design
 
 The enclosure was modeled in Fusion 360 using metric units. Key features include:
 
@@ -21,19 +19,17 @@ The enclosure was modeled in Fusion 360 using metric units. Key features include
 - Ventilation slots aligned with the Pi5 fan
 - GPIO breakout access on the side
 
-## 🌬️ Cooling Setup
-
+## Cooling Setup
 
 To prevent thermal throttling, I mounted a 30mm fan directly above the CPU using standoffs.
 
 ![Cooling Fan Mounted](/assets/media/pi5-laptop/cooling.jpg)
 
-## 🔌 GPIO Access
-
+## GPIO Access
 
 I routed GPIO pins to a side breakout using a ribbon cable and custom header.
 
-## 📦 BOM & Specs
+## BOM & Specs
 
 | Component        | Spec              | Source         |
 |------------------|-------------------|----------------|
@@ -42,12 +38,10 @@ I routed GPIO pins to a side breakout using a ribbon cable and custom header.
 | Screws           | M2.5 x 6mm        | Local hardware |
 | Enclosure        | PLA, 3D printed   | Self-made      |
 
-## 🧠 Lessons Learned
-
+## Lessons Learned
 
 - Always validate airflow paths in CAD before printing
 - GPIO clearance needs to be tested with real headers
 - Documenting specs early helps with BOM clarity
 
-## 🔗 Related Posts
-
+## Related Posts
