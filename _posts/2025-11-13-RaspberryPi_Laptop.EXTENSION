@@ -5,7 +5,6 @@ categories: [raspberrypi, hardware]
 tags: [pi5, laptop build, UPS, cooling, display, battery]     # TAG names should always be lowercase
 media_subpath: /assets/media/pi5-laptop/
 image: preview.jpg
-
 ---
 
 ## 🧰 Overview
@@ -25,7 +24,7 @@ The enclosure was modeled in Fusion 360 using metric units. Key features include
 
 To prevent thermal throttling, I mounted a 30mm fan directly above the CPU using standoffs.
 
-![Cooling Fan Mounted](cooling.JPG){: .normal }
+![Cooling Fan Mounted](cooling.jpg){: .normal }
 
 ## 🔌 GPIO Access
 
