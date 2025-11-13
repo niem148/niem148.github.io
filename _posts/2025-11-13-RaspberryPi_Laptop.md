@@ -10,6 +10,8 @@ image: preview.jpg
 ## Hello
 
 How are you
+![nice image](cooling.jpg)
+_Image Caption_
 
 ## Hi
 
