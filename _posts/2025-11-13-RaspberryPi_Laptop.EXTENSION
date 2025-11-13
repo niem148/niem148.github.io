@@ -24,7 +24,7 @@ The enclosure was modeled in Fusion 360 using metric units. Key features include
 
 To prevent thermal throttling, I mounted a 30mm fan directly above the CPU using standoffs.
 
-![Cooling Fan Mounted](cooling.jpg)
+![Cooling Fan Mounted](/assets/media/pi5-laptop/cooling.jpg)
 
 ## 🔌 GPIO Access
 
