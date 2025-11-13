@@ -3,7 +3,7 @@ title: Raspberry Pi Laptop
 date: 2025-11-13 09:42:05 +0000
 categories: [raspberrypi, hardware]
 tags: [pi5, laptop build, UPS, cooling, display, battery]     # TAG names should always be lowercase
-media_subpath: /assets/media/
+media_subpath: /assets/media/pi5-laptop/
 image: /assets/media/pi5-laptop/preview.jpg
 
 ---
@@ -20,19 +20,17 @@ The enclosure was modeled in Fusion 360 using metric units. Key features include
 - Ventilation slots aligned with the Pi5 fan
 - GPIO breakout access on the side
 
-![Enclosure Top View](enclosure-top.jpg){: .shadow }
 
 ## 🌬️ Cooling Setup
 
 To prevent thermal throttling, I mounted a 30mm fan directly above the CPU using standoffs.
 
-![Cooling Fan Mounted](cooling.jpg){: .normal }
+![Cooling Fan Mounted](cooling.JPG){: .normal }
 
 ## 🔌 GPIO Access
 
 I routed GPIO pins to a side breakout using a ribbon cable and custom header.
 
-![GPIO Breakout](gpio.jpg){: .wide }
 
 ## 📦 BOM & Specs
 
@@ -51,5 +49,4 @@ I routed GPIO pins to a side breakout using a ribbon cable and custom header.
 
 ## 🔗 Related Posts
 
-- [Fusion 360 Sketch Transfer Guide](/posts/fusion360-sketch-transfer/)
-- [Pi5 GPIO Pinout Reference](/posts/pi5-gpio-pinout/)
+
