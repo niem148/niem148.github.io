@@ -14,12 +14,12 @@ timezone: Europe/London
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Akhtar # the main title
+title: Niem Akhtar # the main title
 
-tagline: ITTTTTTT, IOT & 3d Maker Projects # it will display as the subtitle
+tagline: IT, IOT & 3d Maker Projects # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  ITTTTTT troubleshooting, IOT Projects & 3d Printing
+  IT troubleshooting, IOT Projects & 3d Printing
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
