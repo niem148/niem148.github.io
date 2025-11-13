@@ -11,7 +11,7 @@ image: preview.jpg
 
 How are you
 ![nice image](cooling.jpg)
-_Image Caption_
+_A very nice image_
 
 ## Hi
 
