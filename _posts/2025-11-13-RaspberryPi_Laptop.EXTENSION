@@ -1,0 +1,55 @@
+---
+title: Raspberry Pi Laptop
+date: 2025-11-13 09:42:05 +0000
+categories: [raspberrypi, hardware]
+tags: [pi5, laptop build, UPS, cooling, display, battery]     # TAG names should always be lowercase
+media_subpath: /assets/media/
+image: /assets/media/pi5-laptop/preview.jpg
+
+---
+
+## 🧰 Overview
+
+This post documents my custom Pi5 laptop build, including enclosure design, cooling setup, and GPIO access. It’s part of my portfolio showcasing hardware modeling and prototyping routines.
+
+## 🔧 Enclosure Design
+
+The enclosure was modeled in Fusion 360 using metric units. Key features include:
+
+- Snap-fit lid with screw mounts
+- Ventilation slots aligned with the Pi5 fan
+- GPIO breakout access on the side
+
+![Enclosure Top View](enclosure-top.jpg){: .shadow }
+
+## 🌬️ Cooling Setup
+
+To prevent thermal throttling, I mounted a 30mm fan directly above the CPU using standoffs.
+
+![Cooling Fan Mounted](cooling.jpg){: .normal }
+
+## 🔌 GPIO Access
+
+I routed GPIO pins to a side breakout using a ribbon cable and custom header.
+
+![GPIO Breakout](gpio.jpg){: .wide }
+
+## 📦 BOM & Specs
+
+| Component        | Spec              | Source         |
+|------------------|-------------------|----------------|
+| Raspberry Pi 5   | 8GB RAM           | PiHut          |
+| Fan              | 30mm, 5V          | AliExpress     |
+| Screws           | M2.5 x 6mm        | Local hardware |
+| Enclosure        | PLA, 3D printed   | Self-made      |
+
+## 🧠 Lessons Learned
+
+- Always validate airflow paths in CAD before printing
+- GPIO clearance needs to be tested with real headers
+- Documenting specs early helps with BOM clarity
+
+## 🔗 Related Posts
+
+- [Fusion 360 Sketch Transfer Guide](/posts/fusion360-sketch-transfer/)
+- [Pi5 GPIO Pinout Reference](/posts/pi5-gpio-pinout/)
