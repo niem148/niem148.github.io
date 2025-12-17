@@ -9,7 +9,7 @@ image: preview.jpg
 
 This project showcases my ability to design and build a portable Raspberry (Pi5) machine capable of running entirely off-grid, powered by batteries and an uninterruptible power supply (UPS). The machine is designed to operate without mains power, making it ideal for on-the-go use cases, including AI, media serving, and network-wide ad blocking (Pi-hole). The entire design is self-contained in a custom 3D printed case.
 
-![Pi5 Portable Setup](image.jpg)
+![Pi5 Portable Setup](cooling.jpg)
 *The fully assembled Raspberry Pi 5 portable machine.*
 
 ## Key Features
@@ -50,7 +50,7 @@ The case design was created in **Autodesk Fusion 360**. Here’s a step-by-step 
 4. **Snap Fit Vents**: I incorporated snap-fit vents with a hexagonal pattern to enhance airflow and cooling, while maintaining structural integrity.
 5. **Flush Kickstand**: A flush kickstand was designed with magnets to keep the case in place and provide an ergonomic viewing angle.
 
-![Fusion 360 Design](image.jpg)
+![Fusion 360 Design](cooling.jpg)
 *The 3D model in Fusion 360.*
 
 ### 3D Printing
@@ -67,7 +67,7 @@ Building this project was not without its challenges. Here’s a list of some ke
 - **Cable Management**: The internal cable management was optimized using loops and zip ties to keep everything neat and organized.
 - **Safety Enhancements**: To ensure safety, I used high-temperature hot tape on areas prone to heat buildup, and I added an **Arctic Cooler** to the Pi5 for better cooling during heavy use.
 
-![3D Printed Case](image.jpg)
+![3D Printed Case](cooling.jpg)
 *The 3D printed case, showing the internal layout and cable management.*
 
 ## Software & Use Case
@@ -102,7 +102,7 @@ By combining AI assistance with my own IT and 3D design expertise, I delivered a
 
 This Raspberry Pi 5 portable machine is a perfect example of how hardware design, 3D modeling, and software skills can be combined to create a powerful, functional, and portable computing solution. The project demonstrates my proficiency in several key areas, including hardware integration, design, troubleshooting, and software implementation. I’m excited to continue working on this project and exploring new use cases for this versatile Raspberry Pi setup.
 
-![Pi5 in Action](image.jpg)
+![Pi5 in Action](cooling.jpg)
 *The Raspberry Pi 5 running a media server application.*
 
 ---
