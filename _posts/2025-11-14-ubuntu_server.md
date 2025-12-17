@@ -4,7 +4,7 @@ date: 2025-11-14 09:42:05 +0000
 categories: [servers, linux]
 tags: [ubuntu, fileserver, supermicro, legacy, cloud, repurpose, itskills]
 media_subpath: /assets/media/ubuntu_server/
-image: IMG_9688.jPG
+image: IMG_9688.JPG
 
 I had an old Supermicro server that I originally used for 3D rendering. Once I transitioned to cloud-based rendering, the server was no longer needed for that purpose. Since it was a legacy system and no longer received Windows updates, I decided to repurpose it by installing Ubuntu Desktop and turning it into a file server. The server helped to free up space and kept my workstation organised and uncluttered.
 
