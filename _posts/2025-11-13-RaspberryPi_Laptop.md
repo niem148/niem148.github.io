@@ -1,17 +1,13 @@
 ---
-title: Raspberry Pi Laptop
+title: Raspberry Pi 5 Portable Machine with UPS and Batteries
 date: 2025-11-13 09:42:05 +0000
 categories: [raspberrypi, hardware]
-tags: [pi5, laptop build, UPS, cooling, display, battery]     # TAG names should always be lowercase
-media_subpath: /assets/media/pi5-laptop/
+tags: [pi5, laptop build, UPS, cooling, display, battery, fusion, 3dprinting, itskills, ups, portablecomputing]     # TAG names should always be lowercase
+media_subpath: /assets/media/pi5_laptop/
 image: preview.jpg
 ---
 
-# Raspberry Pi 5 Portable Machine with UPS and Batteries
-
-## Overview
-
-This project showcases my ability to design and build a portable Raspberry Pi 5 (Pi5) machine capable of running entirely off-grid, powered by batteries and an uninterruptible power supply (UPS). The machine is designed to operate without mains power, making it ideal for on-the-go use cases, including AI, media serving, and network-wide ad blocking (Pi-hole). The entire design is self-contained in a custom 3D printed case, with seamless integration of hardware and software.
+This project showcases my ability to design and build a portable Raspberry (Pi5) machine capable of running entirely off-grid, powered by batteries and an uninterruptible power supply (UPS). The machine is designed to operate without mains power, making it ideal for on-the-go use cases, including AI, media serving, and network-wide ad blocking (Pi-hole). The entire design is self-contained in a custom 3D printed case.
 
 ![Pi5 Portable Setup](image.jpg)
 *The fully assembled Raspberry Pi 5 portable machine.*
@@ -92,7 +88,15 @@ The goal is to turn this Pi5 into a multi-functional device:
 
 This is just the beginning of the project. In future posts, I will detail the installation and setup of Pi-hole, AI frameworks, and media server software. Stay tuned!
 
----
+## AI Assistance
+Throughout the project I leveraged Copilot and GPT tools to accelerate problem‑solving and documentation. These tools served as valuable aids, allowing me to iterate quickly and overcome challenges, while still relying on my own technical expertise in IT and 3D design.
+
+They were fundamental in:
+- Brainstorming design approaches in Fusion 360
+- Troubleshooting power and connector issues
+- Drafting clear technical documentation for repeatability
+
+By combining AI assistance with my own IT and 3D design expertise, I delivered a polished, working solution.
 
 ## Conclusion
 
