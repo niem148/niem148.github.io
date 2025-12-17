@@ -3,7 +3,7 @@ title: Raspberry Pi 5 Portable Machine with UPS and Batteries
 date: 2025-11-13 09:42:05 +0000
 categories: [raspberrypi, hardware]
 tags: [pi5, laptop build, UPS, cooling, display, battery, fusion, 3dprinting, itskills, ups, portablecomputing]     # TAG names should always be lowercase
-media_subpath: /assets/media/pi5_laptop/
+image_subpath: /assets/media/pi5_laptop/
 image: preview.jpg
 ---
 
