@@ -3,12 +3,12 @@ title: Raspberry Pi 5 Portable Machine with UPS and Batteries
 date: 2025-11-13 09:42:05 +0000
 categories: [raspberrypi, hardware]
 tags: [pi5, laptop build, UPS, cooling, display, battery, fusion, 3dprinting, itskills, ups, portablecomputing]     # TAG names should always be lowercase
-image: /assets/media/pi5_laptop/preview.jpg
+image: /assets/media/pi5_laptop/pi5_header.jpg
 ---
 
 This project showcases my ability to design and build a portable Raspberry (Pi5) machine capable of running entirely off-grid, powered by batteries and an uninterruptible power supply (UPS). The machine is designed to operate without mains power, making it ideal for on-the-go use cases, including AI, media serving, and network-wide ad blocking (Pi-hole). The entire design is self-contained in a custom 3D printed case.
 
-![Pi5 Portable Setup](/assets/media/pi5_laptop/cooling.jpg)
+![Pi5 Portable Setup](/assets/media/pi5_laptop/pi5laptop.jpg)
 *The fully assembled Raspberry Pi 5 portable machine.*
 
 ## Key Features
@@ -49,7 +49,7 @@ The case design was created in **Autodesk Fusion 360**. Here’s a step-by-step 
 4. **Snap Fit Vents**: I incorporated snap-fit vents with a hexagonal pattern to enhance airflow and cooling, while maintaining structural integrity.
 5. **Flush Kickstand**: A flush kickstand was designed with magnets to keep the case in place and provide an ergonomic viewing angle.
 
-![Fusion 360 Design](/assets/media/pi5_laptop/cooling.jpg)
+![Fusion 360 Design](/assets/media/pi5_laptop/fusion.jpg)
 *The 3D model in Fusion 360.*
 
 ### 3D Printing
@@ -66,8 +66,8 @@ Building this project was not without its challenges. Here’s a list of some ke
 - **Cable Management**: The internal cable management was optimized using loops and zip ties to keep everything neat and organized.
 - **Safety Enhancements**: To ensure safety, I used high-temperature hot tape on areas prone to heat buildup, and I added an **Arctic Cooler** to the Pi5 for better cooling during heavy use.
 
-![3D Printed Case](/assets/media/pi5_laptop/cooling.jpg)
-*The 3D printed case, showing the internal layout and cable management.*
+![3D Printed Case](/assets/media/pi5_laptop/case.jpg)
+*The 3D printed case, showing the internal layout.*
 
 ## Software & Use Case
 
@@ -87,6 +87,10 @@ The goal is to turn this Pi5 into a multi-functional device:
 
 This is just the beginning of the project. In future posts, I will detail the installation and setup of Pi-hole, AI frameworks, and media server software. Stay tuned!
 
+![Photos of the Raspberry Pi Laptop](/assets/media/pi5_laptop/left.jpg)
+![Photos of the Raspberry Pi Laptop](/assets/media/pi5_laptop/right.jpg)
+![Photos of the Raspberry Pi Laptop](/assets/media/pi5_laptop/back.jpg)
+
 ## AI Assistance
 Throughout the project I leveraged Copilot and GPT tools to accelerate problem‑solving and documentation. These tools served as valuable aids, allowing me to iterate quickly and overcome challenges, while still relying on my own technical expertise in IT and 3D design.
 
@@ -100,9 +104,6 @@ By combining AI assistance with my own IT and 3D design expertise, I delivered a
 ## Conclusion
 
 This Raspberry Pi 5 portable machine is a perfect example of how hardware design, 3D modeling, and software skills can be combined to create a powerful, functional, and portable computing solution. The project demonstrates my proficiency in several key areas, including hardware integration, design, troubleshooting, and software implementation. I’m excited to continue working on this project and exploring new use cases for this versatile Raspberry Pi setup.
-
-![Pi5 in Action](/assets/media/pi5_laptop/cooling.jpg)
-*The Raspberry Pi 5 running a media server application.*
 
 ---
 
