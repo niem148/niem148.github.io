@@ -11,7 +11,7 @@ I had an old Supermicro server that I originally used for 3D rendering. Once I t
 ![Ubuntu Server](/assets/media/ubuntu_server/IMG_9691.JPG)
 *The legacy supermicro server.*
 
-## Step by Step
+## Setting Up
 
 ### Flashing the USB Drive
 
