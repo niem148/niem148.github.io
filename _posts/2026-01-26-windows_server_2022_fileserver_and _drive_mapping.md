@@ -1,12 +1,12 @@
 ---
-title: "Troubleshooting Bambu Labs A1 Extruder Clog"
-date: 2025-11-15 09:42:05 +0000
-categories: [3d-printing, troubleshooting, hardware]
-tags: [bambu-labs, extruder, filament, clog, maintenance, 3d-printer, support, repair, workflow]
+title: "Windows Server 2022 File Server & Drive Mapping Guide"
+date: 2026-01-26 09:42:05 +0000
+categories: [Windows Server 2022, Active Directory & Group Policy, File Server Management, IT Administration, Home Lab / Lab Builds]
+tags: [Windows Server 2022, File Server, FSRM, File Server Resource Manager, VSS Agent Service, SMB Shares, Drive Mapping]
 image: /assets/media/A1_printer_clog/the_extruder.jpg        
 ---
 
-During recent print sessions with the Bambu A1, I encountered a series of extrusion problems that required systematic troubleshooting. This post documents the observed symptoms, diagnostic steps and corrective actions taken, along with recommendations for preventing similar issues in the future.
+Expanding on the server 2022 home lab environment I decided to create a file server and use group policy to map the share for the users in the _USERS OU.
 
 ## Identified Cause
 
