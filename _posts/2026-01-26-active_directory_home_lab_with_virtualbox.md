@@ -6,6 +6,17 @@ tags: [windows-server-2022, windows-11, virtualbox, powershell, ad-ds, dns, dhcp
 image: /assets/media/active_directory_home_lab/homelab_active_directory.png      
 ---
 
+<div class="skills-box">
+  <strong>Skills:</strong>
+  <ul>
+    <li>DNS configuration</li>
+    <li>DHCP setup</li>
+    <li>Active Directory domain join</li>
+    <li>VirtualBox networking</li>
+    <li>Troubleshooting connectivity issues</li>
+  </ul>
+</div>
+
 ## Overview
 
 This guide summarizes the steps demonstrated in the video *“How to Setup a Basic Home Lab Running Active Directory (Oracle VirtualBox)”*, updated to use **Windows Server 2022** as the Domain Controller and **Windows 11 Pro** as the client machine.
@@ -64,7 +75,7 @@ The original tutorial that this lab is created from can be found here:
 4. Install **Windows Server 2022 – Desktop Experience**.
 5. Set the local Administrator password.
 ![server setup](/assets/media/active_directory_home_lab/server_setup.png)  
-  *Server setup.* 
+  *Setting up the domain server VM.* 
 
 
 ---
@@ -113,7 +124,7 @@ The original tutorial that this lab is created from can be found here:
 3. Configure NAT so the **internal network routes through the NAT adapter** for internet access.
 
  ![ras and nat](/assets/media/active_directory_home_lab/ras_nat.png)  
-  *RAS and NAT.* 
+  *RAS and NAT setup.* 
 ---
 
 ## Step 7: Install and Configure DHCP
@@ -126,7 +137,7 @@ The original tutorial that this lab is created from can be found here:
 3. Authorize the DHCP server in AD.
 
  ![DHCP scope](/assets/media/active_directory_home_lab/dhcp_scope.png)  
-  *DHCP scope.* 
+  *Defining the DHCP scope.* 
 
 ## Step 8: Use the powershell script to bulk add users
 

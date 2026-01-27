@@ -6,6 +6,18 @@ tags: [Windows Server 2022, File Server, FSRM, File Server Resource Manager, VSS
 image: /assets/media/windows_server_2022_fileserver/server_manager.png      
 ---
 
+<div class="skills-box">
+  <strong>Skills:</strong>
+  <ul>
+    <li>Windows Server 2022 file server configuration</li>
+    <li>Group Policy Object (GPO) creation and management</li>
+    <li>Drive mapping using Group Policy Preferences</li>
+    <li>User and group management in Active Directory</li>
+    <li>Troubleshooting connectivity issues</li>
+    <li>Joining a domain from a client machine</li>
+  </ul>
+</div>
+
 A structured walkthrough for installing the **File Server role** (including **FSRM** and **VSS Agent Service**), creating the **SALES** share at `C:\Shares\SALES`, applying a **10 GB quota**, and mapping the share for all users in the `_USERS` OU using **Group Policy**.
 
 ---

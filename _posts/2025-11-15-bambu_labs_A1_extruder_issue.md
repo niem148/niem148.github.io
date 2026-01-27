@@ -6,6 +6,18 @@ tags: [bambu-labs, extruder, filament, clog, maintenance, 3d-printer, support, r
 image: /assets/media/A1_printer_clog/the_extruder.jpg        
 ---
 
+<div class="skills-box">
+  <strong>Skills:</strong>
+  <ul>
+    <li>Diagnosing hardware faults using symptoms and logs</li>
+    <li>Step‑by‑step troubleshooting methodology</li>
+    <li>Disassembling and inspecting mechanical components</li>
+    <li>Cleaning and maintaining extruder/nozzle assemblies</li>
+    <li>Testing fixes and validating successful operation</li>
+    <li>Documenting a real-world troubleshooting workflow</li>
+  </ul>
+</div>
+
 During recent print sessions with the Bambu A1, I encountered a series of extrusion problems that required systematic troubleshooting. This post documents the observed symptoms, diagnostic steps and corrective actions taken, along with recommendations for preventing similar issues in the future.
 
 ## Identified Cause

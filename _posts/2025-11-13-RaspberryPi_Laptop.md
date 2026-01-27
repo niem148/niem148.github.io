@@ -6,6 +6,17 @@ tags: [pi5, laptop build, UPS, cooling, display, battery, fusion, 3dprinting, it
 image: /assets/media/pi5_laptop/pi5_header.jpg
 ---
 
+<div class="skills-box">
+  <strong>Skills:</strong>
+  <ul>
+    <li>Installing and configuring Raspberry Pi OS for a portable system</li>
+    <li>Setting up hardware components such as display, keyboard, and power management</li>
+    <li>Configuring Wi‑Fi, Bluetooth, and basic network connectivity</li>
+    <li>Managing Linux system updates, packages, and configuration files</li>
+    <li>Troubleshooting hardware compatibility and boot issues</li>
+  </ul>
+</div>
+
 This project showcases my ability to design and build a portable Raspberry (Pi5) machine capable of running entirely off-grid, powered by batteries and an uninterruptible power supply (UPS). The machine is designed to operate without mains power, making it ideal for on-the-go use cases, including AI, media serving, and network-wide ad blocking (Pi-hole). The entire design is self-contained in a custom 3D printed case.
 
 ![Pi5 Portable Setup](/assets/media/pi5_laptop/pi5laptop.jpg)

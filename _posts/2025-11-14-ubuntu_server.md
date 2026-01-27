@@ -6,6 +6,18 @@ tags: [ubuntu, fileserver, supermicro, legacy, cloud, repurpose, itskills]
 image: /assets/media/ubuntu_server/IMG_9688.JPG
 ---
 
+<div class="skills-box">
+  <strong>Skills:</strong>
+  <ul>
+    <li>Installing and configuring Samba on Ubuntu</li>
+    <li>Creating and managing Linux users and groups</li>
+    <li>Setting up shared network folders</li>
+    <li>Adjusting Samba share permissions</li>
+    <li>Testing access from Windows clients</li>
+    <li>Basic Linux command‑line administration</li>
+  </ul>
+</div>
+
 I had an old Supermicro server that I originally used for 3D rendering. Once I transitioned to cloud-based rendering, the server was no longer needed for that purpose. Since it was a legacy system and no longer received Windows updates, I decided to repurpose it by installing Ubuntu Desktop and turning it into a file server. The server helped to free up space and kept my workstation organised and uncluttered.
 
 ![Ubuntu Server](/assets/media/ubuntu_server/IMG_9691.JPG)
