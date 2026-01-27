@@ -73,7 +73,7 @@ A structured walkthrough for installing the **File Server role** (including **FS
 - `SALES_Users` → **Modify**
 9. Confirm settings and select **Create**
 10. Click **Close**
- ![Fileserver Roles](/assets/media/windows_server_2022_fileserver/create_share.png)  
+ ![Creating the share](/assets/media/windows_server_2022_fileserver/create_share.png)  
   *Creating the share.* 
 
 
@@ -99,7 +99,7 @@ A structured walkthrough for installing the **File Server role** (including **FS
 - Create one beforehand if required
 5. Click **Create**
 6. Close the console
- ![Fileserver Roles](/assets/media/windows_server_2022_fileserver/create_quota.png)  
+ ![Creating the quota](/assets/media/windows_server_2022_fileserver/create_quota.png)  
   *Creating the quota.* 
 ---
 
