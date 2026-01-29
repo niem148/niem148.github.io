@@ -1,9 +1,9 @@
 ---
 title: "Networking Fundamentals Lab with VirtualBox"
-date: 2026-01-29 09:42:05 +0000
-categories: [windows server, network, home lab]
-tags: [dhcp,dns, active directory, subnetting, tcp/ip, virtualbox, internal networking, ip addressing, routing basics, windows server 2022]     # TAG names should always be lowercase
-image: /assets/media/networking_home_lab/home_lab.png
+date: 2026-01-28 09:42:05 +0000
+categories: [Windows Server 2022, Network, Home Lab / Lab Builds]
+tags: [dhcp,dns, active directory, subnetting, tcp/ip, virtualbox, internal networking, ip addressing, routing basics, windows server 2022]
+image: /assets/media/networking_home_lab/home_lab.png     
 ---
 
 <div class="skills-box">
@@ -189,5 +189,3 @@ This lab demonstrates essential networking fundamentals required for many IT and
 - Subnetting and IP planning
 - Default gateway behaviour
 - Client-server connectivity
-
-
