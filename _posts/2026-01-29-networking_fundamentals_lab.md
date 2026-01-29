@@ -126,6 +126,10 @@ ipconfig /release
 ipconfig /renew
 ipconfig /all
 ```
+
+![Commands](/assets/media/networking_home_lab/Screenshot 2026-01-29 180158.png)  
+![Commands](/assets/media/networking_home_lab/Screenshot 2026-01-29 180209.png)  
+
 ### Example Lease Details
 
 IP Address: 172.16.0.100
@@ -143,6 +147,9 @@ nslookup dc.mydomain.com
 ping dc.mydomain.com
 ipconfig /displaydns
 ```
+
+![Commands](/assets/media/networking_home_lab/Screenshot 2026-01-29 180659.png) 
+
 **Expected Results**
 
 - nslookup returns 172.16.0.1
@@ -160,14 +167,18 @@ ipconfig
 ping 172.16.0.1
 tracert 8.8.8.8
 ```
+![Commands](/assets/media/networking_home_lab/Screenshot 2026-01-29 181421.png) 
 
 **Explanation**
 
 - Gateway responds to ping
-- tracert stops at the gateway due to isolation
-- No external routing exists in this lab
-- Connectivity Testing
-- Connectivity is tested from a client machine.
+- tracert shows the gateway as the first ho
+- The second hop times out because VirtualBox NAT does not return ICMP TTL‑expired messages
+- The third hop reaches 8.8.8.8, proving that traffic is being NATed out to the internet
+  
+## Connectivity Testing
+
+Connectivity is tested from a client machine.
 
 **Ping Tests**
 ```shell
@@ -175,6 +186,9 @@ ping 172.16.0.1
 ping dc
 ping dc.mydomain.com
 ```
+
+![Commands](/assets/media/networking_home_lab/Screenshot 2026-01-29 181649.png) 
+
 **Expected Outcome**
 
 - Name resolution works correctly

@@ -227,7 +227,7 @@ I’m actively seeking **entry‑level IT Technician / Helpdesk roles** where I 
 
 I’m committed to developing my skills through hands‑on labs, certifications and real world experience.
 
----
+---se
 
 # Contact
 
