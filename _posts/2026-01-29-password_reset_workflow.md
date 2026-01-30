@@ -28,10 +28,8 @@ A realistic helpdesk-style walkthrough of how I would handle a password reset re
 - Never reset a password without verification
 
 ## Step 2 — Check the Account Status in AD
-Screenshots to include:
-- AD Users & Computers
-- User properties
-- Account tab
+
+![Commands](/assets/media/password_reset/Screenshot 2026-01-30 104654.png) 
 
 Things to check:
 - Account locked?
@@ -41,8 +39,12 @@ Things to check:
 ## Step 3 — Reset the Password
 - Use “Reset Password” in ADUC
 - Force password change at next logon
+- Unlock account if needed
 - Document the temporary password
+  
+![Commands](/assets/media/password_reset/Screenshot 2026-01-30 104314.png) 
 
+- Or if user rememebers password they can change it without the reset password
 ![Commands](/assets/media/password_reset/Screenshot 2026-01-29 184420.png) 
 
 ## Step 4 — Communicate Clearly With the User
@@ -58,4 +60,4 @@ Include:
 - Confirmation that the issue is resolved
 
 ## Conclusion
-This workflow demonstrates user verification, AD troubleshooting, communication, and documentation — core skills for helpdesk roles.
+This workflow demonstrates user verification, AD troubleshooting, communication and documentation.

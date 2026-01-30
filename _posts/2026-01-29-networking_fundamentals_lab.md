@@ -30,6 +30,13 @@ This lab covers the following networking concepts:
 - Routing and default gateway behaviour  
 - Connectivity testing between devices  
 
+## Reference Tutorial
+
+The original base tutorial that this lab is created from can be found here:
+
+**Josh Madakor – Active Directory Home Lab (VirtualBox)**  
+[https://www.youtube.com/watch?v=MHsI8hJmggI](https://www.youtube.com/watch?v=MHsI8hJmggI)
+
 ## Network Design and Subnetting
 
 ```text
