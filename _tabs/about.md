@@ -17,7 +17,9 @@ This page brings together my story, my skills and hands on projects I’ve been 
 
 # My Background
 
-I spent over a decade working as a **3D Visualiser**, collaborating with architects, interior designers, and creative teams to produce high‑quality visualisations.  
+I spent over a decade working as a **3D Visualiser**, collaborating with architects, interior designers and creative teams to produce high‑quality visualisations.  
+
+
 Across roles at Hopkins Architects, HOK, ADT Workplace and later as a freelancer, I developed strengths that translate naturally into IT:
 
 - clear communication  

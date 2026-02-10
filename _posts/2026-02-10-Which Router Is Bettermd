@@ -1,0 +1,160 @@
+---
+title: "Linksys SPNMX56 vs Plusnet Hub Two: Which Router Is Better?"
+date: 2026-02-10
+categories: [Networking, IT-Career, Home-Technology]
+tags: [Routers, WiFi, Linksys, Plusnet, Toob, WPA3, Mesh, Helpdesk]
+description: "A practical comparison between the Linksys SPNMX56 and the Plusnet Hub Two, including Wi-Fi performance, security, cabling differences, and why we’re switching from Plusnet to Toob full-fibre."
+image: /assets/media/router_comparison/New_Project.png
+---
+
+<div class="skills-box">
+  <strong>Key Skills:</strong>
+  <ul>
+    <li>Evaluating hardware security features such as WPA2 and WPA3</li>
+    <li>Comparing ISP-provided equipment with third-party alternatives</li>
+  </ul>
+</div>
+
+# Linksys SPNMX56 vs Plusnet Hub Two: Which Router Is Better?
+
+As part of our move from **Plusnet** to **Toob full‑fibre broadband**, I wanted to compare the router we’ve been using (the **Plusnet Hub Two**) with the **Linksys SPNMX56** that Toob supplies. This comparison covers Wi‑Fi performance, security, mesh capability, and even the Ethernet cabling differences — including the fact that Toob’s Cat6 cable colour actually matches their branding.
+
+---
+
+## 📸 Router Images
+
+Replace these with your own image paths:
+
+![Linksys SPNMX56](/assets/media/router_comparison/IMG_0118.jpg)
+
+![Plusnet Hub Two](/assets/media/router_comparison/IMG_0121.JPG)
+
+---
+
+# Quick Comparison Table
+
+| Feature        | Linksys SPNMX56                         | Plusnet Hub Two       |
+| -------------- | --------------------------------------- | --------------------- |
+| Wi-Fi Standard | Wi-Fi 6 (802.11ax)                      | Wi-Fi 5 (802.11ac)    |
+| Bands          | 2.4GHz + 5GHz                           | 2.4GHz + 5GHz         |
+| Security       | WPA3 + WPA2                             | WPA2 only             |
+| Mesh Support   | Yes                                     | No                    |
+| Ethernet Ports | 2.5Gbps WAN + LAN ports                 | 4× Gigabit LAN        |
+| Firmware       | Linksys app + updates                   | ISP-locked            |
+| Included Cable | Cat6 U/UTP                              | Cat5e                 |
+| Best For       | Modern homes, many devices, mesh setups | Basic broadband users |
+
+---
+
+# Wi-Fi Standards: Wi-Fi 6 vs Wi-Fi 5
+
+The SPNMX56 uses **Wi-Fi 6**, which offers:
+
+- Better performance with many devices
+- Improved efficiency
+- Higher throughput
+- Lower latency
+
+The Plusnet Hub Two uses **Wi-Fi 5**, which is still reliable but lacks the modern optimisations found in Wi-Fi 6.
+
+---
+
+# Security: WPA3 vs WPA2
+
+Security is one of the biggest differences.
+
+## Linksys SPNMX56
+- Supports **WPA3**, the latest Wi-Fi security standard
+- Stronger protection against password cracking
+- Better device onboarding
+- More future-proof
+
+## Plusnet Hub Two
+- **WPA2 only**
+- Still secure, but older
+- No option to upgrade to WPA3
+
+If you care about encryption strength, the Linksys wins clearly.
+
+---
+
+# Cabling: Cat5e vs Cat6 U/UTP
+
+This is a detail most people overlook, but it matters — especially when switching to full‑fibre like Toob.
+
+## Plusnet Hub Two Cable: Cat5e
+Plusnet typically ships the Hub Two with a **Cat5e** Ethernet cable.
+Cat5e supports:
+
+- Up to **1 Gbps**
+- Basic home networking
+- Older broadband packages
+
+It’s fine for FTTC or slower FTTP, but it’s not as future‑proof.
+
+## Linksys SPNMX56 Cable: Cat6 U/UTP
+The Linksys SPNMX56 includes a **Cat6 U/UTP** cable, which offers:
+
+- Better noise reduction
+- Higher bandwidth
+- Support for **10 Gbps** over short distances
+- More consistent performance with Wi‑Fi 6 routers
+
+### A fun detail:
+The Cat6 cable supplied with Toob installs often comes in a **Pantone‑matched purple/magenta tone**, matching Toob’s branding.
+It’s a small touch, but it makes the setup feel more polished.
+
+![TOOB ethernet cable](/assets/media/router_comparison/IMG_0120.JPG)
+
+---
+
+# Real-World Performance
+
+The SPNMX56 is designed for high-density environments:
+
+- Multiple 4K streams
+- Gaming
+- Smart home devices
+- Mesh expansion
+
+The Plusnet Hub Two is stable and simple, but not built for heavy loads or large homes.
+
+---
+
+# Mesh Capability
+
+The SPNMX56 can be expanded into a full mesh system, ideal for:
+
+- Larger homes
+- Thick walls
+- Dead zones
+
+The Plusnet Hub Two has **no mesh support**.
+
+---
+
+# Which One Should You Choose?
+
+## Choose the Linksys SPNMX56 if:
+- You want Wi-Fi 6
+- You need stronger security (WPA3)
+- You plan to expand with mesh nodes
+- You have many devices
+- You want better long-term performance
+- You’re upgrading to **Toob full‑fibre** and want to maximise speed
+
+## Choose the Plusnet Hub Two if:
+- You want simplicity
+- You’re on a basic Plusnet package
+- You don’t need mesh or advanced features
+- You prefer plug-and-play
+
+---
+
+# Final Thoughts
+
+For most modern households — especially those moving to **full‑fibre providers like Toob** — the **Linksys SPNMX56** is the clear winner. It offers better security, better performance, better cabling, and better expandability.
+
+The **Plusnet Hub Two** remains a solid, stable option for users who just want a simple router that works without configuration, but it’s not built for the demands of modern fibre broadband.
+
+---
