@@ -4,7 +4,7 @@ date: 2026-02-10
 categories: [Networking, IT-Career, Home-Technology]
 tags: [Routers, WiFi, Linksys, Plusnet, Toob, WPA3, Mesh, Helpdesk]
 description: "A practical comparison between the Linksys SPNMX56 and the Plusnet Hub Two, including Wi-Fi performance, security, cabling differences, and why we’re switching from Plusnet to Toob full-fibre."
-image: /assets/media/router_comparison/header_router.png
+image: assets/media/router/header_router.png
 ---
 
 <div class="skills-box">
@@ -25,9 +25,9 @@ As part of our move from **Plusnet** to **Toob full‑fibre broadband**, I wante
 
 Replace these with your own image paths:
 
-![Linksys SPNMX56](/assets/media/router_comparison/linksys.jpg)
+![Linksys SPNMX56](assets/media/router/linksys.jpg)
 
-![Plusnet Hub Two](/assets/media/router_comparison/hub2.jpg)
+![Plusnet Hub Two](assets/media/router/hub2.jpg)
 
 ---
 
@@ -102,9 +102,9 @@ The Linksys SPNMX56 includes a **Cat6 U/UTP** cable, which offers:
 
 ### A fun detail:
 The Cat6 cable supplied with Toob installs often comes in a **Pantone‑matched purple/magenta tone**, matching Toob’s branding.
-It’s a small touch, but it makes the setup feel more polished.
+It’s a small touch but it makes the setup feel more polished.
 
-![TOOB ethernet cable](/assets/media/router_comparison/cable.jpg)
+![TOOB ethernet cable](assets/media/router/cable.jpg)
 
 ---
 
