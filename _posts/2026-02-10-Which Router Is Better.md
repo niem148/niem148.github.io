@@ -21,10 +21,6 @@ As part of our move from **Plusnet** to **Toob full‑fibre broadband**, I wante
 
 ---
 
-## 📸 Router Images
-
-Replace these with your own image paths:
-
 ![Linksys SPNMX56](assets/media/router/linksys.jpg)
 
 ![Plusnet Hub Two](assets/media/router/hub2.jpg)

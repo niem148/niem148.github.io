@@ -188,12 +188,6 @@ Diagnosing and resolving a 3D printer clog using structured troubleshooting step
 
 These are posts I’m currently working on or planning to publish soon:
 
-### **• Windows Server 2022 – DHCP & DNS Deep Dive**  
-Configuring scopes, reservations, DNS zones, and testing name resolution.
-
-### **• Building a Home Network Lab (VLANs & Routing)**  
-Using a managed switch and router to explore segmentation and inter‑VLAN routing.
-
 ### **• PowerShell Basics for Helpdesk**  
 Useful commands for user management, system info, and automation.
 
@@ -233,9 +227,9 @@ I’m committed to developing my skills through hands‑on labs, certifications 
 
 # Contact
 
-- **Email:** niem.akhtar2021@gmail.com  
-- **LinkedIn:** *(add your link here)*  
-- **GitHub:** https://github.com/niem148  
+- **Email:** [niem.akhtar2021@gmail.com](mailto:niem.akhtar2021@gmail.com)
+- **LinkedIn:** [https://www.linkedin.com/in/niemakhtar/](https://www.linkedin.com/in/niemakhtar/)
+- **GitHub:** [https://github.com/niem148](https://github.com/niem148)
 
 ---
 
