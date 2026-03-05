@@ -96,12 +96,6 @@ The Linksys SPNMX56 includes a **Cat6 U/UTP** cable, which offers:
 - Support for **10 Gbps** over short distances
 - More consistent performance with Wi‑Fi 6 routers
 
-### A fun detail:
-The Cat6 cable supplied with Toob installs often comes in a **Pantone‑matched purple/magenta tone**, matching Toob’s branding.
-It’s a small touch but it makes the setup feel more polished.
-
-![TOOB ethernet cable](assets/media/router/cable.jpg)
-
 ---
 
 # Real-World Performance

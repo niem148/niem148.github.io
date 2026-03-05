@@ -10,8 +10,8 @@ Batley, West Yorkshire
 07707 457411  
 niem.akhtar2021@gmail.com  
 
-GitHub: [https://github.com/niem148](https://github.com/niem148)  
-Technical Blog: [https://niem148.github.io](https://niem148.github.io)
+Technical Blog: [https://niem148.github.io](https://niem148.github.io)  
+Download CV: [docx format](/assets/media/cv_download/Niem_Akhtar.docx)  
 
 ---
 
