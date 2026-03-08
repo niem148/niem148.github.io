@@ -4,6 +4,7 @@ date: 2025-11-13 09:42:05 +0000
 categories: [raspberrypi, hardware]
 tags: [pi5, laptop build, UPS, cooling, display, battery, fusion, 3dprinting, itskills, ups, portablecomputing]     # TAG names should always be lowercase
 image: /assets/media/pi5_laptop/pi5_header.jpg
+pin: true
 ---
 
 <div class="skills-box">
