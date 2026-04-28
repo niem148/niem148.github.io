@@ -6,103 +6,128 @@ title: CV - Niem Akhtar
 layout: page
 ---
 
-Heckmondwike, West Yorkshire  
-07707 457411  
-niem.akhtar2021@gmail.com  
-Technical Blog: https://niem148.github.io
+# **Niem Akhtar — IT Support / Helpdesk (Entry Level)**  
+West Yorkshire (Open to commute / remote roles)  
+**Phone:** 07707 457411  
+**Email:** niem.akhtar2021@gmail.com  
+**Portfolio:** https://niem148.github.io  
 
 ---
 
-## Personal Profile
-
-I’m an IT Support Technician with a practical, hands-on approach and a long background in technical problem solving. After 15 years working in 3D visualisation, I retrained into IT, gaining my CompTIA A+ and currently studying Network+. Alongside this, I’ve built real troubleshooting experience through home labs, supporting users day to day and documenting fixes on my technical blog.
-
-I’m confident working with people, explaining things clearly and staying calm when something goes wrong. I enjoy diagnosing issues, keeping systems running smoothly and helping users feel supported. I’m now looking for a role where I can build on my first-line support skills and contribute to a team that values good communication and reliable service.
+## **IT SUPPORT / HELPDESK (ENTRY LEVEL)**  
+**CompTIA A+ | Windows | Active Directory | Microsoft 365 | Troubleshooting**
 
 ---
 
-## Key Skills
+## **Profile**  
+Entry-level IT support candidate with **CompTIA A+ certification** and hands-on practical experience gained through structured home lab environments.
 
-- **IT Support:** Windows 10/11, common user issues, drivers, updates, system settings  
-- **Incident Handling:** Logging, prioritising and escalating issues appropriately  
-- **User Accounts:** Active Directory, password resets, basic permissions  
-- **Hardware:** PC builds, fault finding, component swaps, peripherals  
-- **Networking:** TCP/IP, DHCP, DNS, WiFi troubleshooting, router setup  
-- **Microsoft 365:** Outlook, Teams, OneDrive, SharePoint  
-- **Remote Support:** Clear step-by-step guidance, patient communication  
-- **Cybersecurity Awareness:** MFA, password hygiene, spotting risks  
-- **Documentation:** Troubleshooting notes, guides, repeatable processes  
+Bringing over **15 years of technical experience** from a 3D visualisation career, including diagnosing system issues, maintaining Windows workstations, and supporting users in fast-paced environments.
+
+Comfortable with Windows support, basic Active Directory tasks, networking fundamentals, and clear communication with non-technical users. Currently studying **Network+** and **MD-102** to strengthen knowledge further.
+
+Seeking a **1st line / helpdesk role** to build commercial IT experience and contribute to a reliable support team.
 
 ---
 
-## Certifications
-
-- CompTIA A+  
-- CompTIA Network+ (Studying)
+## **Key Skills**
+- Windows 10/11 support (updates, drivers, system issues)  
+- Active Directory (user accounts, password resets, permissions – lab-based)  
+- Microsoft 365 (Outlook, Teams, OneDrive, SharePoint)  
+- Hardware troubleshooting (PC builds, diagnostics, peripherals)  
+- Networking fundamentals (TCP/IP, DNS, DHCP, Wi-Fi troubleshooting)  
+- Clear communication with non-technical users  
+- Documentation and troubleshooting write-ups  
 
 ---
 
-## Experience
+## **Hands-On IT Experience (Home Lab & Self-Study)**
+- Built a Windows Server 2022 lab using VirtualBox  
+- Created and managed Active Directory users, groups, and policies  
+- Configured shared drives and permissions using Group Policy  
+- Practised common support tasks including password resets, login issues, and access problems  
+- Diagnosed Windows performance issues, driver conflicts, and update failures  
+- Set up an Ubuntu-based file server with Samba for network sharing  
+- Practised basic networking setup (IP addressing, DHCP, DNS concepts)  
+- Documented troubleshooting processes and solutions on personal technical blog  
 
-### Freelance IT Support & 3D Visualisation Technician – Self Employed  
+---
+
+## **Professional Experience**
+
+### **Freelance 3D Visualiser (Self-Employed)**  
 **2016 – Present**
+- Delivered high-quality 3D visualisations using 3ds Max, V-Ray and Unreal Engine  
+- Managed full project lifecycle from client brief to final delivery  
+- Worked independently to meet deadlines and client expectations  
 
-- Looked after high-performance Windows workstations, keeping drivers, storage and software stable.  
-- Diagnosed crashes, performance issues and software conflicts across 3D and design tools.  
-- Managed updates, backups and general system health to avoid downtime.  
-- Helped clients and colleagues understand technical issues in plain English.  
-- Set up and maintained equipment, ensuring everything was ready for use when needed.  
-- Created clear documentation and repeatable workflows.
+**Technical / IT-related responsibilities:**  
+- Maintained and troubleshot high-performance Windows workstations  
+- Diagnosed crashes, driver issues, and software conflicts  
+- Managed system updates, storage, backups, and system reliability  
+- Identified performance bottlenecks (CPU, GPU, memory) and implemented fixes  
+- Explained technical issues clearly to non-technical clients  
+- Documented solutions and optimised workflows  
 
-### Technical Support & 3D Visualisation Technician – ADT Workplace  
+---
+
+### **3D Visualiser – ADT Workplace**  
 **2014 – 2016**
+- Produced 3D visualisations for commercial design projects  
+- Collaborated with designers and project teams  
 
-- Supported internal teams with technical issues involving CAD and 3D software.  
-- Managed large project files and network storage, ensuring smooth workflows.  
-- Worked closely with designers and project managers, providing reliable technical support.
+**Technical involvement:**  
+- Supported colleagues with software and workstation issues  
+- Resolved file compatibility and performance problems  
+- Assisted with shared storage and handling large project files  
 
-### Digital Workflow & Visualisation Technician – Hopkins Architects  
+---
+
+### **3D Visualiser – Hopkins Architects**  
 **2011 – 2013**
+- Created architectural visualisations for design projects  
 
-- Maintained stable 3D pipelines and resolved rendering and software issues.  
-- Ensured consistent workstation performance through proactive troubleshooting.
+**Technical involvement:**  
+- Troubleshot rendering and software issues  
+- Helped maintain stable systems and digital workflows  
 
-### Print & Systems Technician – Kolor Signs Ltd  
+---
+
+### **Artworker – Kolor Signs Ltd**  
 **2009 – 2010**
+- Prepared print-ready artwork and managed production output  
 
-- Operated and maintained large-format printers, diagnosing mechanical and software faults.  
-- Prepared print-ready files and ensured colour accuracy.
+**Technical involvement:**  
+- Diagnosed hardware and software faults in large-format printers  
+- Maintained system performance and output quality  
 
-### Visualisation Technician – HOK  
+---
+
+### **3D Visualiser – HOK**  
 **2006 – 2009**
+- Produced visual content for architectural projects  
 
-- Produced high-quality visuals while keeping workstations running smoothly.  
-- Supported colleagues with technical issues and workflow improvements.
-
----
-
-## Technical Portfolio
-
-Hands-on troubleshooting write-ups and scenario-based guides:  
-https://niem148.github.io
+**Technical involvement:**  
+- Supported team members with software and workflow issues  
+- Maintained workstation stability and performance  
 
 ---
 
-## Education
+## **Certifications**
+- CompTIA A+  
+- CompTIA Network+ (In Progress)  
+- MD-102 – Microsoft Endpoint Administrator (In Progress)  
 
+---
+
+## **Education**
 **BSc Computer Animation**  
-University of Bradford (2001–2005)  
-Included modules in computer systems, networks and software engineering.
+University of Bradford  
 
 ---
 
-## Professional Involvement
-
-- Member of Microsoft Learn Community  
-- Active GitHub contributor (niem148)
-
----
-
-## References
-
-Available on request.
+## **Additional Information**
+- Strong problem-solving mindset with real troubleshooting experience  
+- Excellent communication skills with non-technical users  
+- Experience working under pressure and meeting deadlines  
+- Actively building IT knowledge through labs and certification study  
