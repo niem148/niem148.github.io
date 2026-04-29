@@ -115,7 +115,6 @@ Seeking a **1st line / helpdesk role** to build commercial IT experience and con
 
 ## **Certifications**
 - CompTIA A+  
-- CompTIA Network+ (In Progress)  
 - MD-102 – Microsoft Endpoint Administrator (In Progress)  
 
 ---
