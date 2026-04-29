@@ -88,7 +88,7 @@ Seeking a **1st line / helpdesk role** to build commercial IT experience and con
 - Created architectural visualisations for design projects  
 
 **Technical involvement:**  
-- Troubleshot rendering and software issues  
+- Troubleshooting rendering and software issues  
 - Helped maintain stable systems and digital workflows  
 
 ---
