@@ -29,7 +29,7 @@ Issue: Power LED on main switch turned on showing green but no power to the 3d p
 Bambu Labs asked me to remove the SD card but there was no change in the issue.
 
 ## Futher Troubleshooting
-I then follwed instructions given by Bambu support to check the various LED's on the boards by removing the bottom tray. Transcript below:
+I then followed instructions given by Bambu support to check the various LED's on the boards by removing the bottom tray. Transcript below:
 
 Dear Customer,
 
