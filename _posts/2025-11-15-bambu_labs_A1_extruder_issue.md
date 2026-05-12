@@ -4,7 +4,7 @@ date: 2025-11-15 09:42:05 +0000
 categories: [3d-printing, troubleshooting, hardware]
 tags: [bambu-labs, extruder, filament, clog, maintenance, 3d-printer, support, repair, workflow]
 image: /assets/media/A1_printer_clog/the_extruder.jpg        
-pin: true
+pin: false
 ---
 
 <div class="skills-box">

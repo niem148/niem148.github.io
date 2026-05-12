@@ -74,21 +74,21 @@ On closer inspection I noticed a burn MOV (Metal Oxide Varistor) on the AC power
 *The burnt MOV*
 
 ![MAIN Board](/assets/media/ac_board/5.JPG)
-*TClose up of burnt MOV*
+*Close up of burnt MOV*
 
 Bambu Labs gave me the below wiki to follow and shipped the replacement board. 
 
 [Bambu Lab A1 AC Board Replacement Guide](https://wiki.bambulab.com/en/a1/maintenance/ac-board-replacement?appSharePlatform=copy)
 
 Some of the connectors had a triangular push tab which differed from the wiki.
-Cables 4 & 5 difficult to remove - had to pull out the power board slightly to grip the cables and pull out
+Cables 4 & 5 difficult to remove - had to pull out the power board slightly to grip the cables.
 
 ### The Bottom Cover
-They also send a new bottom cover as existing one was slighytly wapred.
+They also send a new bottom cover as existing one was slighytly warped.
 
 [Bambu Lab A1 Bottom Base Guide](https://wiki.bambulab.com/en/a1/maintenance/bottom-base?appSharePlatform=copy)
 
-I found the bottom cover difficult to pull off and used a pry too to slide carefully slide around the opening which helped alot.
+I found the bottom cover difficult to pull off and used a pry tool to slide carefully around the opening which helped alot.
 
 ![MAIN Board](/assets/media/ac_board/3.JPG)
 *Bottom cover difficult to take off*
@@ -101,4 +101,4 @@ After installing the new board the printer came back to life and everything work
 *Last few connectors to push back in*
 
 ## Further steps
-I notice the new power board had no MOV so I installed a surge protector extension lead. I will monitor the status LED on the extension lead periodically to check that the MOV inside is still fucntioning.
+I notice the new power board had no MOV so I installed a surge protector extension lead. I will monitor the status LED on the extension lead periodically to check that the MOV inside is still functioning.
