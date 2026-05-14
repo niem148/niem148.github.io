@@ -1,5 +1,5 @@
 ---
-title: Bambu Labs A1 AC Board replacement
+title: Completed MD-102 Endpoint Administrator Udemy Course
 date: 2026-04-28 15:10:05 +0000
 categories: [M365, Intune, Deployment]
 tags: [udemy, md-102, intune, endpoint, m365, deployment, autopilot, workflow]     # TAG names should always be lowercase
@@ -11,11 +11,11 @@ pin: false
   <strong>Skills:</strong>
   <ul>
     <li>Setting up Hyper‑V environments and deploying Windows Server 2022 and Windows 11 virtual machines for hands‑on lab work.</li>
-    <li>Configuring and managing Active Directory Domains, domain controllers, and hybrid identity using Azure AD Connect.</li>
-    <li>Enrolling, configuring, and managing Windows, Apple, and Android devices through Microsoft Entra ID and Microsoft Intune.</li>
-    <li>Implementing compliance, Conditional Access, security baselines, and endpoint security including AV, FW, EDR, and ASR.</li>
-    <li>Deploying, updating, and managing applications and Microsoft 365 Apps using Intune, OCT, and platform app stores.</li>
-    <li>Administering Autopilot deployments, device configuration profiles, remote actions, update rings, and Defender for Endpoint onboarding.</li>
+    <li>Configuring and managing Active Directory Domains, domain controllers and hybrid identity using Azure AD Connect.</li>
+    <li>Enrolling, configuring and managing Windows, Apple, and Android devices through Microsoft Entra ID and Microsoft Intune.</li>
+    <li>Implementing compliance, Conditional Access, security baselines and endpoint security including AV, FW, EDR and ASR.</li>
+    <li>Deploying, updating, and managing applications and Microsoft 365 Apps using Intune, OCT and platform app stores.</li>
+    <li>Administering Autopilot deployments, device configuration profiles, remote actions, update rings and Defender for Endpoint onboarding.</li>
   </ul>
 </div>
 
@@ -28,14 +28,14 @@ The course covered endpoint security in depth including Defender for Endpoint on
 
 Overall it has been a comprehensive and hands on introduction to the tools and processes used by Microsoft Endpoint Administrators and it has given me a solid foundation to build on.
 
-![Admin Centre](/assets/media/md-102_udemy_course/1.jpg)
+![Admin Centre](/assets/media/md-102_udemy_course/1.png)
 *The M365 admin centre*
 
-![Assign Licences](/assets/media/md-102_udemy_course/2.jpg)
+![Assign Licences](/assets/media/md-102_udemy_course/2.png)
 *Assigning a user licence*
 
-![Entra ID](/assets/media/md-102_udemy_course/3.jpg)
+![Entra ID](/assets/media/md-102_udemy_course/3.png)
 *Managing users in Entra ID*
 
-![Secuity Group](/assets/media/md-102_udemy_course/4.jpg)
-*Dynamic secuitygroup for android devices*
+![Secuity Group](/assets/media/md-102_udemy_course/4.png)
+*Dynamic secuity group for android devices*
