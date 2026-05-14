@@ -1,7 +1,7 @@
 ---
 title: Bambu Labs A1 AC Board replacement
-date: 2026-05-12 12:10:05 +0000
-categories: [3d-printing, troubleshooting, hardware]
+date: 2026-04-28 15:10:05 +0000
+categories: [M365, Intune, Deployment]
 tags: [udemy, md-102, intune, endpoint, m365, deployment, autopilot, workflow]     # TAG names should always be lowercase
 image: /assets/media/md-102_udemy_course/cert.jpg
 pin: false
