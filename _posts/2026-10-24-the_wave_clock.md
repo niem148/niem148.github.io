@@ -94,7 +94,11 @@ Fusion was used to:
 
 Several prototype iterations were printed during development to ensure all parts fitted together reliably.
 
-![Keyhole Hanger](/assets/media/wave_clock/keyhole_hanger)
+![Cross Section](/assets/media/wave_clock/section1.png)
+
+*Cross section of the finished design*
+
+![Keyhole Hanger](/assets/media/wave_clock/keyhole_hanger.png)
 
 *Fusion 360 assembly containing the layered landscape components and clock housing.*
 
@@ -140,9 +144,9 @@ Each iteration improved both manufacturing reliability and overall product quali
 
 <br><br>
 
-![Clock Components](/assets/media/wave_clock/parts.jpg)
+![Ticks](/assets/media/wave_clock/hour_ticks.png)
 
-*Individual components prepared for printing and assembly.*
+*The ticks snap into the bow tie recesses*
 
 <br><br>
 
