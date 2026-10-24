@@ -202,7 +202,6 @@ The final build plates were arranged to minimise preparation time and simplify p
 - **Silent quartz clock mechanism**
 - **Wooden clock hands**
 - **Copper spray paint**
-- **10 mm hexagonal alignment dowels**
 - **Superglue for final assembly**
 
 
