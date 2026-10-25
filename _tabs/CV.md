@@ -1,132 +1,259 @@
 ---
-# the default layout is 'page'
-icon: fas fa-info-circle
+icon: fas fa-file-alt
 order: 2
 title: CV - Niem Akhtar
 layout: page
 ---
 
-# **Niem Akhtar — IT Support / Helpdesk (Entry Level)**  
-West Yorkshire (Open to commute / remote roles)  
+# Niem Akhtar
+
+## 3D CAD | Additive Manufacturing | Technical Support
+
+**Location:** West Yorkshire, UK  
 **Phone:** 07707 457411  
 **Email:** niem.akhtar2021@gmail.com  
-**Portfolio:** https://niem148.github.io  
+**Portfolio:** https://niem148.github.io
 
 ---
 
-## **IT SUPPORT / HELPDESK (ENTRY LEVEL)**  
-**CompTIA A+ | Windows | Active Directory | Microsoft 365 | Troubleshooting**
+# Professional Profile
+
+Technical professional with nearly 20 years of experience in CAD-based modelling, visualisation, technical problem-solving and project delivery.
+
+Experienced in translating complex technical information into practical solutions, working with multidisciplinary teams, troubleshooting hardware and software issues, and producing accurate technical documentation.
+
+Alongside a long career in 3D visualisation, I have developed practical experience in Fusion 360, FDM 3D printing, prototype development, additive manufacturing workflows and IT homelab environments.
+
+I enjoy hands-on technical work involving design, testing, troubleshooting, continuous improvement and problem-solving.
 
 ---
 
-## **Profile**  
-Entry-level IT support candidate with **CompTIA A+ certification** and hands-on practical experience gained through structured home lab environments.
+# Core Technical Skills
 
-Bringing over **15 years of technical experience** from a 3D visualisation career, including diagnosing system issues, maintaining Windows workstations, and supporting users in fast-paced environments.
+## Digital Manufacturing & CAD
 
-Comfortable with Windows support, basic Active Directory tasks, networking fundamentals, and clear communication with non-technical users. Currently studying **Network+** and **MD-102** to strengthen knowledge further.
+- Fusion 360 CAD modelling
+- 3D design and prototyping
+- FDM additive manufacturing
+- PLA and PETG materials
+- Design for manufacture
+- Assembly planning
+- Print calibration and optimisation
+- Part tolerances and clearances
+- Surface quality assessment
+- Printer maintenance and troubleshooting
 
-Seeking a **1st line / helpdesk role** to build commercial IT experience and contribute to a reliable support team.
+## IT & Infrastructure
+
+- Windows 10/11
+- Windows Server 2022
+- Active Directory
+- DNS & DHCP
+- Ubuntu Server
+- Samba file sharing
+- VirtualBox
+- PowerShell
+- Raspberry Pi
+- Hardware diagnostics
+- Network troubleshooting
+- Technical documentation
+
+## Professional Skills
+
+- Technical problem-solving
+- Root cause investigation
+- Documentation and reporting
+- Project planning
+- Quality assurance
+- Stakeholder communication
+- Collaborative working
+- Deadline management
 
 ---
 
-## **Key Skills**
-- Windows 10/11 support (updates, drivers, system issues)  
-- Active Directory (user accounts, password resets, permissions – lab-based)  
-- Microsoft 365 (Outlook, Teams, OneDrive, SharePoint)  
-- Hardware troubleshooting (PC builds, diagnostics, peripherals)  
-- Networking fundamentals (TCP/IP, DNS, DHCP, Wi-Fi troubleshooting)  
-- Clear communication with non-technical users  
-- Documentation and troubleshooting write-ups  
+# Featured Technical Projects
+
+## Modular 3D Printed Wall Clock
+
+Designed and manufactured a large multi-part wall clock using Fusion 360 and Bambu Studio.
+
+Key activities:
+
+- CAD modelling and assembly design
+- Alignment features and joining methods
+- Part strength optimisation
+- Print testing and refinement
+- Material evaluation using PLA and PETG
+- Surface finish improvements
 
 ---
 
-## **Hands-On IT Experience (Home Lab & Self-Study)**
-- Built a Windows Server 2022 lab using VirtualBox  
-- Created and managed Active Directory users, groups, and policies  
-- Configured shared drives and permissions using Group Policy  
-- Practised common support tasks including password resets, login issues, and access problems  
-- Diagnosed Windows performance issues, driver conflicts, and update failures  
-- Set up an Ubuntu-based file server with Samba for network sharing  
-- Practised basic networking setup (IP addressing, DHCP, DNS concepts)  
-- Documented troubleshooting processes and solutions on personal technical blog  
+## Bambu Lab A1 Troubleshooting & Optimisation
+
+Resolved print-quality and extrusion issues through methodical testing and fault diagnosis.
+
+Skills demonstrated:
+
+- Printer maintenance
+- Calibration procedures
+- Nozzle fault diagnosis
+- Cooling optimisation
+- Flow and support tuning
+- Print-quality improvement
 
 ---
 
-## **Professional Experience**
+## Raspberry Pi 5 Portable Computer
 
-### **Freelance 3D Visualiser (Self-Employed)**  
+Built and documented a fully functional Raspberry Pi portable system.
+
+Skills demonstrated:
+
+- Hardware integration
+- System configuration
+- Cooling solutions
+- Component testing
+- Troubleshooting and refinement
+- Technical documentation
+
+---
+
+## Windows & Linux Homelab Environment
+
+Built multiple home lab environments for hands-on technical learning.
+
+Projects include:
+
+- Windows Server 2022
+- Active Directory
+- DNS & DHCP configuration
+- Group Policy
+- File sharing and permissions
+- Ubuntu Server
+- Samba
+- SSH administration
+- VirtualBox virtualisation
+
+Related posts:
+
+- Active Directory Home Lab
+- Windows Server File Server & Drive Mapping
+- Ubuntu File Server
+
+---
+
+# Applied Technical Workflow
+
+Throughout my projects I follow a structured workflow:
+
+1. Identify requirements and constraints
+2. Design and configure solutions
+3. Test and validate functionality
+4. Troubleshoot issues methodically
+5. Document findings and improvements
+6. Refine and optimise results
+
+This approach has been developed through years of technical project work and remains central to how I solve problems.
+
+---
+
+# Professional Experience
+
+## Freelance 3D Visualiser
 **2016 – Present**
-- Delivered high-quality 3D visualisations using 3ds Max, V-Ray and Unreal Engine  
-- Managed full project lifecycle from client brief to final delivery  
-- Worked independently to meet deadlines and client expectations  
 
-**Technical / IT-related responsibilities:**  
-- Maintained and troubleshot high-performance Windows workstations  
-- Diagnosed crashes, driver issues, and software conflicts  
-- Managed system updates, storage, backups, and system reliability  
-- Identified performance bottlenecks (CPU, GPU, memory) and implemented fixes  
-- Explained technical issues clearly to non-technical clients  
-- Documented solutions and optimised workflows  
+- Produce accurate 3D models from architectural drawings and project briefs
+- Translate complex technical information into visual solutions
+- Manage project revisions and client feedback
+- Troubleshoot modelling and software issues
+- Deliver projects to agreed deadlines
+
+### Transferable Technical Skills
+
+- Problem-solving
+- Technical communication
+- Workflow optimisation
+- Documentation
+- Independent working
+- Project management
 
 ---
 
-### **3D Visualiser – ADT Workplace**  
+## 3D Visualiser – ADT Workplace
 **2014 – 2016**
-- Produced 3D visualisations for commercial design projects  
-- Collaborated with designers and project teams  
 
-**Technical involvement:**  
-- Supported colleagues with software and workstation issues  
-- Resolved file compatibility and performance problems  
-- Assisted with shared storage and handling large project files  
+- Produced detailed visualisations from CAD plans and site information
+- Worked closely with designers and project managers
+- Supported design reviews and revisions
+- Maintained accuracy and quality across multiple projects
 
 ---
 
-### **3D Visualiser – Hopkins Architects**  
+## 3D Visualiser – Hopkins Architects
 **2011 – 2013**
-- Created architectural visualisations for design projects  
 
-**Technical involvement:**  
-- Troubleshooting rendering and software issues  
-- Helped maintain stable systems and digital workflows  
+- Developed architectural models and visualisations
+- Interpreted technical drawings and specifications
+- Worked within multidisciplinary design teams
+- Assisted in delivering complex projects
 
 ---
 
-### **Artworker – Kolor Signs Ltd**  
+## Artworker – Kolor Signs Ltd
 **2009 – 2010**
-- Prepared print-ready artwork and managed production output  
 
-**Technical involvement:**  
-- Diagnosed hardware and software faults in large-format printers  
-- Maintained system performance and output quality  
+- Produced print-ready production artwork
+- Operated large-format printing equipment
+- Performed quality checks on output
+- Maintained production standards
 
 ---
 
-### **3D Visualiser – HOK**  
+## 3D Visualiser – HOK
 **2006 – 2009**
-- Produced visual content for architectural projects  
 
-**Technical involvement:**  
-- Supported team members with software and workflow issues  
-- Maintained workstation stability and performance  
-
----
-
-## **Certifications**
-- CompTIA A+  
-- MD-102 – Microsoft Endpoint Administrator (In Progress)  
+- Created 3D models from design concepts and plans
+- Worked alongside architects and design teams
+- Supported project development and presentations
 
 ---
 
-## **Education**
+# Education & Certifications
+
+## Education
+
 **BSc Computer Animation**  
-University of Bradford  
+University of Bradford
+
+## Certifications
+
+- CompTIA A+
+- CompTIA Network+ (In Progress)
 
 ---
 
-## **Additional Information**
-- Strong problem-solving mindset with real troubleshooting experience  
-- Excellent communication skills with non-technical users  
-- Experience working under pressure and meeting deadlines  
-- Actively building IT knowledge through labs and certification study  
+# Software & Tools
+
+- Fusion 360
+- Bambu Studio
+- 3ds Max
+- V-Ray
+- AutoCAD
+- SketchUp
+- Unreal Engine
+- Photoshop
+- Windows Server
+- Ubuntu Server
+- VirtualBox
+- PowerShell
+- GitHub Pages
+- Markdown
+
+---
+
+# Contact
+
+- **Email:** niem.akhtar2021@gmail.com
+- **GitHub:** https://github.com/niem148
+- **LinkedIn:** https://www.linkedin.com/in/niemakhtar/
+- **Portfolio:** https://niem148.github.io
