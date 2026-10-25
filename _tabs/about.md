@@ -1,238 +1,213 @@
 ---
-# the default layout is 'page'
 icon: fas fa-info-circle
 order: 1
-title: "Why I’m Pivoting to IT"
+title: "About Me"
 layout: page
 ---
 
-I’m Niem Akhtar a 3D visualiser by background, now transitioning into the world of IT.  
-After many years working in CGI, architecture and visualisation, I realised that the work I naturally gravitate towards in my spare time has always been technically oriented: IT hardware/software setup, networking, raspberry pi projects, IoT experiments and 3D printing.
+# Hi, I'm Niem Akhtar
 
-Alongside that personal interest, the practical reality is clear: **there are far more IT roles available locally** and the field offers longer term stability, progression and problem solving work I genuinely enjoy.
+I'm a technical professional with nearly 20 years of experience working with CAD-based modelling, visualisation, digital design and problem-solving.
 
-This page brings together my story, my skills and hands on projects I’ve been building as I move into IT support helpdesk and technician roles.
+Throughout my career I've worked with architects, designers, project managers and clients, translating complex technical information into practical solutions and delivering projects to tight deadlines. While my professional background is in 3D visualisation, much of the work has always involved troubleshooting software, managing technical workflows, documenting processes and solving complex technical challenges.
 
----
-
-# My Background
-
-I spent over a decade working as a **3D Visualiser**, collaborating with architects, interior designers and creative teams to produce high‑quality visualisations.  
-
-
-Across roles at Hopkins Architects, HOK, ADT Workplace and later as a freelancer, I developed strengths that translate naturally into IT:
-
-- clear communication  
-- attention to detail  
-- working under pressure  
-- structured problem‑solving  
-- learning complex software quickly  
-- supporting non‑technical clients  
-
-These are the same qualities that make a strong IT technician.
+Alongside my professional career, I've developed a strong interest in IT infrastructure, homelab environments, Linux, Windows Server and hardware projects. This website documents both my technical projects and my ongoing professional development.
 
 ---
 
-# Why IT Makes Sense for Me
+# Professional Background
 
-## Strong Personal Interest  
-I’ve always been drawn to:
+Over the last two decades I've held technical and creative roles with organisations including:
 
-- networking    
-- IoT devices  
-- raspberry Pi projects  
-- 3D printing and hardware tinkering  
-- linux and Windows system configuration  
+- Hopkins Architects
+- HOK
+- ADT Workplace
+- Freelance consultancy projects
 
-These aren’t new interests, they’re things I’ve been doing for years outside of work.
+My work has involved:
 
-## Local Job Market  
-Where I live, IT roles have more availabilty than CGI roles.  
-Pivoting into IT gives me:
+- Interpreting technical drawings and specifications
+- Building detailed 3D CAD and visualisation models
+- Managing revisions and project changes
+- Troubleshooting software and workflow issues
+- Producing technical documentation
+- Collaborating with multidisciplinary teams
+- Delivering projects to strict deadlines
 
-- better long‑term stability  
-- more opportunities close to home  
-- a clearer progression path  
+These experiences developed skills that transfer directly into technical support and engineering environments:
 
-## Transferable Strengths  
-My CGI background required:
-
-- diagnosing rendering issues
-- managing complex software pipelines
-- supporting designers and clients  
-- documenting workflows
-- working with technical constraints
+- Analytical problem-solving
+- Attention to detail
+- Technical communication
+- Documentation and reporting
+- Testing and quality assurance
+- Continuous learning
 
 ---
 
-# Skills for Helpdesk / IT Technician
+# Technical Interests
 
-## Technical Skills
-- Windows 10/11 support  
-- Basic Windows Server administration  
-- Active Directory fundamentals  
-- DNS & DHCP basics  
-- VirtualBox virtualisation  
-- Linux basics (Ubuntu, Raspberry Pi OS)  
-- File sharing (Samba, Windows shares)  
-- Group Policy (GPO creation & drive mapping)  
-- Troubleshooting methodology  
-- Basic PowerShell usage  
+I enjoy building practical projects that combine hardware, software and problem-solving.
 
-## Soft Skills
-- Clear, patient communication  
-- User‑focused problem solving  
-- Strong documentation habits  
-- Ability to learn independently  
-- Calm under pressure  
-- Logical, structured thinking  
+Areas I regularly work with include:
+
+- Windows 11
+- Windows Server 2022
+- Active Directory
+- Linux & Ubuntu Server
+- Raspberry Pi
+- VirtualBox
+- PowerShell
+- GitHub & Markdown
+- Fusion 360
+- FDM 3D Printing
+- Hardware troubleshooting
+
+---
+
+# Digital Manufacturing & CAD
+
+A significant part of my technical work centres around CAD, additive manufacturing and prototyping.
+
+Key areas of experience include:
+
+- Fusion 360 modelling
+- Prototype design
+- FDM 3D printing
+- Print calibration and optimisation
+- Part tolerances and fit testing
+- PLA and PETG materials
+- Assembly planning
+- Printer maintenance and fault diagnosis
+- Design for manufacture principles
+
+I enjoy taking projects from concept through design, testing, refinement and final production.
+
+---
+
+# IT & Homelab Projects
+
+Alongside my CAD and manufacturing work, I maintain a number of IT-focused lab environments and personal projects.
+
+These include:
+
+- Active Directory home labs
+- Windows Server deployments
+- File servers and network shares
+- Ubuntu Server installations
+- Samba file sharing
+- Virtual machine environments
+- Raspberry Pi projects
+- PowerShell learning and automation
+- Network troubleshooting and testing
+
+The goal of these projects is to develop practical, hands-on experience while documenting solutions and building a portfolio of real-world technical work.
+
+---
+
+# Featured Projects
+
+## Active Directory Home Lab
+
+A fully configured Windows Server 2022 environment built in VirtualBox, including:
+
+- Active Directory Domain Services
+- DNS
+- DHCP
+- Group Policy
+- Windows 11 clients
+
+[View Project](https://niem148.github.io/posts/Active_Directory_Home_Lab_with_VirtualBox/)
+
+## Windows Server File Server & Drive Mapping
+
+Implementation of shared folders and Group Policy drive mapping within a domain environment.
+
+Skills demonstrated:
+
+- Windows Server
+- NTFS permissions
+- Shared folders
+- Group Policy
+- User testing
+
+[View Project](https://niem148.github.io/posts/windows_server_2022_fileserver_and-_drive_mapping/)
+
+## Ubuntu File Server
+
+Linux-based file sharing environment using Samba.
+
+Skills demonstrated:
+
+- Ubuntu Server
+- Linux CLI
+- User permissions
+- Samba configuration
+- Troubleshooting
+
+[View Project](https://niem148.github.io/posts/Ubuntu_File_Server/)
+
+## Raspberry Pi Portable Computer
+
+A custom Raspberry Pi build involving hardware assembly, operating system configuration and enclosure design.
+
+[View Project](https://niem148.github.io/posts/RaspberryPi_Laptop/)
+
+---
+
+# Core Skills
+
+## Technical
+
+- Windows 10 & 11
+- Windows Server 2022
+- Active Directory
+- DNS & DHCP
+- Ubuntu Server
+- Samba
+- VirtualBox
+- PowerShell
+- Raspberry Pi
+- Fusion 360
+- GitHub Pages
+- Markdown
+
+## Professional
+
+- Problem-solving
+- Technical documentation
+- Communication
+- Troubleshooting
+- Time management
+- Stakeholder collaboration
+- Project delivery
+- Continuous learning
 
 ---
 
 # Certifications
 
-- **CompTIA A+** 
-- **CompTIA Network+ — In Progress**  
-- Future goals: Azure AZ‑900, ITIL Foundation
+- CompTIA A+
+- CompTIA Network+ (in progress)
 
----
-# Skills Matrix
+Future study goals:
 
-A structured overview of my current IT capabilities, based on hands‑on labs, home projects, and practical experience.
-
-## Technical Skills
-
-| Skill Area                           | Competencies                                                         | Level        |
-| ------------------------------------ | -------------------------------------------------------------------- | ------------ |
-| **Windows Desktop Support**          | Windows 10/11 configuration, user profiles, updates, troubleshooting | Intermediate |
-| **Windows Server**                   | Installation, roles & features, file server setup, permissions       | Intermediate |
-| **Active Directory**                 | Domain setup, OUs, users/groups, Group Policy, domain joins          | Intermediate |
-| **Networking**                       | DNS, DHCP, IP addressing, NAT, basic routing, Wi‑Fi setup            | Developing   |
-| **Virtualisation**                   | VirtualBox networking, snapshots, VM provisioning                    | Intermediate |
-| **Linux (Ubuntu / Raspberry Pi OS)** | CLI usage, Samba shares, system updates, service management          | Developing   |
-| **File Sharing**                     | SMB/Samba configuration, share permissions, access testing           | Intermediate |
-| **PowerShell**                       | System info, user queries, basic scripting                           | Developing   |
-| **Hardware & IoT**                   | Raspberry Pi builds, 3D printer troubleshooting, component setup     | Intermediate |
-| **Documentation**                    | Clear step‑by‑step guides, screenshots, structured write‑ups         | Advanced     |
-
----
-
-## Soft Skills
-
-| Skill                   | Description                                                       | Level    |
-| ----------------------- | ----------------------------------------------------------------- | -------- |
-| **Communication**       | Clear, patient explanations for technical and non‑technical users | Advanced |
-| **Problem‑Solving**     | Logical, methodical troubleshooting across hardware and software  | Advanced |
-| **Attention to Detail** | Accurate configuration, careful testing, clean documentation      | Advanced |
-| **Time Management**     | Managing tasks, meeting deadlines, prioritising effectively       | Advanced |
-| **Self‑Learning**       | Independent study, labs, research, continuous improvement         | Advanced |
-
----
-
-## Tools & Technologies
-
-| Category              | Tools                                                           |
-| --------------------- | --------------------------------------------------------------- |
-| **Operating Systems** | Windows 11, Windows Server 2022, Ubuntu Server, Raspberry Pi OS |
-| **Virtualisation**    | VirtualBox                                                      |
-| **Networking**        | DNS, DHCP, NAT, Wi‑Fi configuration                             |
-| **Scripting**         | PowerShell (developing)                                         |
-| **File Services**     | SMB, Samba, NTFS permissions                                    |
-| **Hardware**          | Raspberry Pi, Bambu Lab A1, PC components                       |
-| **Documentation**     | Markdown, GitHub Pages, Chirpy                                  |
-
----
-
-# Featured IT Projects & Case Studies
-
-Below are selected posts from my blog, each demonstrating practical, hands‑on skills relevant to IT support roles.
-
----
-
-## **Windows Server 2022 File Server & Drive Mapping**
-Setting up a Windows Server 2022 file server, configuring share permissions and mapping drives using Group Policy Preferences.  
-**Skills Demonstrated:** Windows Server setup, share permissions, GPO creation, drive mapping, user access testing.  
-[Read the post](https://niem148.github.io/posts/windows_server_2022_fileserver_and-_drive_mapping/)
-
----
-
-## **Active Directory Home Lab (VirtualBox)**
-Building a full AD environment using Windows Server 2022 and Windows 11 clients.  
-**Skills Demonstrated:** AD DS setup, DNS/DHCP configuration, domain joining, OU structure, troubleshooting.  
-[Read the post](https://niem148.github.io/posts/Active_Directory_Home_Lab_with_VirtualBox/)
-
----
-
-## **Raspberry Pi Laptop Build**
-Turning a Raspberry Pi into a portable Linux laptop, configuring hardware, OS, networking and peripherals.  
-**Skills Demonstrated:** Linux configuration, hardware assembly, Wi‑Fi setup, troubleshooting boot issues.  
-[Read the post](https://niem148.github.io/posts/RaspberryPi_Laptop/)
-
----
-
-## **Ubuntu File Server (Samba)**
-Creating a Linux‑based file server using Samba and testing access from Windows clients.  
-**Skills Demonstrated:** Linux CLI, Samba configuration, user/group management, network share testing.  
-[Read the post](https://niem148.github.io/posts/Ubuntu_File_Server/)
-
----
-
-## **Bambu A1 – Clog Troubleshooting**
-Diagnosing and resolving a 3D printer clog using structured troubleshooting steps.  
-**Skills Demonstrated:** Hardware diagnostics, methodical problem‑solving, documenting fixes.  
-[Read the post](https://niem148.github.io/posts/Bambu_A1_Clog/)
-
----
-
-# Upcoming Projects (Placeholders)
-
-These are posts I’m currently working on or planning to publish soon:
-
-### **• PowerShell Basics for Helpdesk**  
-Useful commands for user management, system info, and automation.
-
-### **• Monitoring a Raspberry Pi with Grafana & Prometheus**  
-Lightweight monitoring for home servers and IoT devices.
-
----
-
-# Tools & Technologies I Use
-
-- Windows Server 2022  
-- Windows 11  
-- Ubuntu Server  
-- Raspberry Pi OS  
-- VirtualBox  
-- PowerShell  
-- Linux CLI  
-- Samba  
-- GitHub Pages  
-- Markdown  
-- 3D printing (Bambu Lab A1)  
+- Microsoft Azure AZ-900
+- ITIL Foundation
 
 ---
 
 # Career Goals
 
-I’m actively seeking **entry‑level IT Technician / Helpdesk roles** where I can:
+I'm seeking opportunities where I can apply my technical problem-solving skills in IT, technical support, digital manufacturing or engineering-focused environments.
 
-- support users  
-- troubleshoot systems  
-- build on my networking knowledge  
-- continue learning and progressing in IT  
-
-I’m committed to developing my skills through hands‑on labs, certifications and real world experience.
-
----se
-
-# Contact
-
-- **Email:** [niem.akhtar2021@gmail.com](mailto:niem.akhtar2021@gmail.com)
-- **LinkedIn:** [https://www.linkedin.com/in/niemakhtar/](https://www.linkedin.com/in/niemakhtar/)
-- **GitHub:** [https://github.com/niem148](https://github.com/niem148)
+My aim is to continue building practical experience through projects, professional development and hands-on learning while contributing to a team that values curiosity, technical excellence and continuous improvement.
 
 ---
 
-# CV
+# Contact
 
-A downloadable version of my CV is available on request or via my LinkedIn profile.
+- Email: <niem.akhtar2021@gmail.com>
+- LinkedIn: <https://www.linkedin.com/in/niemakhtar/>
+- GitHub: <https://github.com/niem148>
+- Website: <https://niem148.github.io>
